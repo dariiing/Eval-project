@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1641925892 source:c:\users\daria\onedrive\desktop\proiect v2\main.cpp
+	<iostream>
+	<math.h>
+	<graphics.h>
+	<string.h>
+	<fstream>
+	"MENIU.H"
+	"EVAL.H"
+	"meniu_principal.h"
+
+1642012243 c:\users\daria\onedrive\desktop\proiect v2\meniu.h
+	"EVAL.H"
+
+1642070869 c:\users\daria\onedrive\desktop\proiect v2\eval.h
+	"TREE.H"
+	"CALC.H"
+
+1642012250 c:\users\daria\onedrive\desktop\proiect v2\tree.h
+	<math.h>
+	<iostream>
+
+1642069121 c:\users\daria\onedrive\desktop\proiect v2\calc.h
+	"TREE.H"
+	"EVAL.h"
+
+1642015236 c:\users\daria\onedrive\desktop\proiect v2\meniu_principal.h
+

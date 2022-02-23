@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="260" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="read_formula.in" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="24" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="CALC.h" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15091" topLine="323" />
+		</Cursor>
+		<Folding>
+			<Collapse line="37" />
+			<Collapse line="75" />
+			<Collapse line="120" />
+			<Collapse line="225" />
+			<Collapse line="241" />
+			<Collapse line="247" />
+			<Collapse line="255" />
+			<Collapse line="261" />
+			<Collapse line="268" />
+			<Collapse line="277" />
+			<Collapse line="283" />
+			<Collapse line="289" />
+			<Collapse line="295" />
+			<Collapse line="301" />
+			<Collapse line="307" />
+			<Collapse line="313" />
+			<Collapse line="319" />
+			<Collapse line="325" />
+			<Collapse line="331" />
+			<Collapse line="337" />
+			<Collapse line="471" />
+			<Collapse line="494" />
+			<Collapse line="558" />
+		</Folding>
+	</File>
+	<File name="EVAL.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="111" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="TREE.H" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="133" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="MENIU_PRINCIPAL.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="83" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="MENIU.H" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="92" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
